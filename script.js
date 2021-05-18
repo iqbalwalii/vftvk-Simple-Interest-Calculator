@@ -14,11 +14,11 @@ function compute() {
   document.getElementById("principal").focus();
 
   document.getElementById("result").innerHTML =
-    "<p> If you deposit <span style = background-color:#ccc;>" +
+    "<p> If you deposit <span style = background-color:#F0B929;>" +
     principal +
-    "</span> ,<br>at an interest rate of <span style = background-color:#ccc;>" +
+    "</span> ,<br>at an interest rate of <span style = background-color:#F0B929;>" +
     rate +
-    "%</span><br>You will receive an amount of <span style = background-color:#ccc;>" +
+    "%</span><br>You will receive an amount of <span style = background-color:#F0B929;>" +
     amount +
     "</span>,<br>in the year " +
     year +
