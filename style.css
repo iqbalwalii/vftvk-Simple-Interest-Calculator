@@ -1,4 +1,21 @@
-body {background-color:tan;}
-h1{color:green;}
-
-
+body {
+  background-color: tan;
+  font-family: arial;
+  color: #fff;
+}
+h1 {
+  color: grey;
+  font-family: verdana;
+}
+.maindiv {
+  background-color: #fff;
+  color: #000;
+  width: 200px;
+  padding: 20px;
+  border-radius: 20px;
+  margin: auto;
+}
+footer {
+  text-align: center;
+  margin-top: 2rem;
+}
